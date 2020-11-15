@@ -1,3 +1,5 @@
+sudo apt update
+sudo apt install libgl1-mesa-glx
 import streamlit as st
 import numpy as np
 from PIL import Image
