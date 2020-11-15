@@ -5,7 +5,7 @@ Convert Images to pencil sketches
 ![image](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg)
 ![image](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
-Go to this [link](http://shields.io/) to add **badge**
+Go to this [link](http://shields.io/) to add **https://img.shields.io/amo/rating/5**
 
 Go to this [link](http://www.emoji-cheat-sheet.com/) to add **EMOJI**
 ## Installation
