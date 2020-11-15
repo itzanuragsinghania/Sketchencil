@@ -22,6 +22,7 @@ Go to this [link](http://www.emoji-cheat-sheet.com/) to add **EMOJI**
 6. Out of 2 option Click on Deploy Branch button.
 
 7. Bazinga your web app is ready.
+
 ## About
 
 ## Contributing
