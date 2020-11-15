@@ -15,13 +15,13 @@ def pencilsketch(inp_img):
     return(final_img)
 
 
-st.title("PencilSketcher App")
-st.write("This Web App is to help convert your photos to realistic Pencil Sketches")
+st.title("SketchenCIL")
+st.write("IT can convert your photos to realistic Pencil Sketches")
 
-file_image = st.sidebar.file_uploader("Upload your Photos", type=['jpeg','jpg','png'])
+file_image = st.sidebar.file_uploader("Upload", type=['jpeg','jpg','png'])
 
 if file_image is None:
-    st.write("You haven't uploaded any image file")
+    st.write("There was no image uploaded ")
 
 else:
     input_img = Image.open(file_image)
