@@ -3,7 +3,8 @@
 Convert Images to pencil sketches
 
 ![image](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg)
-![image](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+
+
 
 ## Installation
 1.Just clone this repo on ur github profile.
