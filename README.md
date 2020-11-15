@@ -5,13 +5,10 @@ Convert Images to pencil sketches
 ![image](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg)
 ![image](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
-Go to this [link](http://shields.io/) to add **https://img.shields.io/amo/rating/5**
-
-Go to this [link](http://www.emoji-cheat-sheet.com/) to add **EMOJI**
 ## Installation
 1.Just clone this repo on ur github profile.
 
-2.Sign up for an HeroKu account https://www.heroku.com/
+2.Sign up for an HeroKu account "https://www.heroku.com/"
 
 3.Go to your Dashboard and create a new app let the default serever location be US
 
@@ -24,10 +21,11 @@ Go to this [link](http://www.emoji-cheat-sheet.com/) to add **EMOJI**
 7. Bazinga your web app is ready.
 
 ## About
-
+The app uses streamlit library and opencv to change the color photo to a pencil sketch.
+Based on Concept from :"https://bit.ly/2Uv8QZm"
 ## Contributing
-1. [Hongbo Jing](https://github.com/hongbojing)
-2. name_bb
+1. Anurag Singhania "https://github.com/Destrog"
+
 
 ## License
-MIT license
+No liscence
