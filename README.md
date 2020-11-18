@@ -24,7 +24,7 @@ Convert Images to pencil sketches
 The app uses streamlit library and opencv to change the color photo to a pencil sketch.
 Based on Concept from :"https://bit.ly/2Uv8QZm"
 ## Contributing
-1. Anurag Singhania "https://github.com/Destrog"
+1. Anurag Singhania "https://github.com/itzanuragsinghania"
 
 
 ## License
