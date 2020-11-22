@@ -29,4 +29,4 @@ Based on Concept from : [Click Here](https://bit.ly/2Uv8QZm)
 
 
 ## License
-[License](LICENSE)
+Distributed under the MIT License. [LICENSE](LICENSCE)
