@@ -1,7 +1,9 @@
 # Project_Name :Sketchencil:
 Convert Images to pencil sketches
 
-## DEMO ![image](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg)
+## DEMO 
+![image](https://img.shields.io/badge/version-1.0.0-yellowgreen.svg)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://www.paypal.com/paypalme/dracarysinc)&nbsp;
 
 ###  [HERE]( https://sketchencil.herokuapp.com/)
 
